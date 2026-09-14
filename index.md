@@ -8,4 +8,4 @@ Welcome to the official legal information page for LogoLab.
 - [LogoLab Support](logolab-support.md)
 
 
-Contact: stduiolabss0@gmail.com
+Contact: studiolabss0@gmail.com
