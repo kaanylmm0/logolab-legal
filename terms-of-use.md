@@ -768,3 +768,10 @@ When contacting us, please provide enough information for us to understand your 
 ## 44. Acknowledgment
 
 By downloading, accessing, creating an account, subscribing to, or using LogoLab, you acknowledge that you have read and understood these Terms of Use and agree to be bound by them.
+
+##
+Apple Standard EULA
+
+For users who download LogoLab through the Apple App Store, Apple’s Standard End User License Agreement (EULA) also applies:
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
